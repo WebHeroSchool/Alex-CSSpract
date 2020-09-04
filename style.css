@@ -54,7 +54,7 @@
 }
 
 .header__text, .article__adtext {
-	list-style-image: url(imgs/arrow.png)
+	list-style-image: url(imgs/arrow.png);
 }
 
 .header__text span {
