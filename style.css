@@ -4,8 +4,8 @@
 
 .header__design {
 	margin: auto;
-    width: 100%;
-    padding: 30px;
+	width: 100%;
+	padding: 30px;
 }
 
 .header__left-corner, .header__right-corner {
@@ -109,8 +109,8 @@ img {
 
 .footer__design {
 	margin: auto;
-    width: 100%;
-    padding: 30px;
+	width: 100%;
+	padding: 30px;
 }
 
 .footer__left-corner, .footer__middle-corner, .footer__right-corner {
