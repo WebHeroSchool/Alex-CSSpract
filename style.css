@@ -1,5 +1,6 @@
 * {
 	margin: 0 10px 0;
+    font-family: 'Cormorant SC', serif;
 }
 
 .header__design {
@@ -9,7 +10,6 @@
 }
 
 .header__left-corner, .header__right-corner {
-	font-family: sans-serif;
 	width: 20%;
 }
 
@@ -46,11 +46,7 @@
 	font-size: 400%;
 	text-align: left;
 	margin: auto;
-}
-
-.header__title > span {
-	font-style: italic;
-	font-weight: normal;
+	font-family: 'Caveat', cursive;
 }
 
 .header__text, .article__adtext {
@@ -85,7 +81,7 @@ article {
 }
 
 img {
-	max-width: 80%;
+	max-width: 70%;
 	padding: 20px 0 0;
 }
 
@@ -101,10 +97,6 @@ img {
 .article__adtext {
 	margin: 20px 0 0;
 	font-weight: bold;
-}
-
-.article__text, .article__img-text, .article__adtext {
-	font-family: sans-serif;
 }
 
 .footer__design {
